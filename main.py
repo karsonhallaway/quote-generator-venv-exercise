@@ -20,3 +20,4 @@ random_quote = random.choice(quotes)
 # Output format (e.g., "Quote here. - Author") 
 print(f"\n{random_quote[0]} - {random_quote[1]}\n")
 
+# passed teammates test
